@@ -1,4 +1,4 @@
-package Code_Judger;
+package Final_exam;
 import java.util.Scanner;
 
 public class JP206 {

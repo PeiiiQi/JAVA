@@ -1,4 +1,5 @@
-package Code_Judger;
+package Final_exam;
+
 import java.util.Scanner;
 public class JP306 {
     public static void main(String[] args) {

@@ -1,6 +1,5 @@
-package Code_Judger;
-import java.util.Scanner;
-
+package Final_exam;
+import java.util.*;
 public class JP202 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -19,5 +18,5 @@ public class JP202 {
             System.out.println("error");
         }
         sc.close();
-    }    
+    }
 }

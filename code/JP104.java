@@ -1,13 +1,13 @@
-package Code_Judger;
-import java.util.Scanner;
+package Final_exam;
+import java.util.*;
 
 public class JP104 {
-    @SuppressWarnings("resource")
-    public static void main(String[] srgs){
+    public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         double a = sc.nextDouble();
         double b = sc.nextDouble();
         double total = a + b;
-        System.out.printf("total=%.2f",total);
+        System.out.printf("total=%.2f", total);
+        sc.close();
     }    
 }
